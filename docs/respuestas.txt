@@ -1,0 +1,5 @@
+38.
+GitHub es un servicio de alojamiento de repositorios Git en la nube.
+
+43.
+Un repositorio remoto es un repositorio Git alojado en una máquina diferente a la del repositorio local.
